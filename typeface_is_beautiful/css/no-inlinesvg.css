@@ -1,0 +1,140 @@
+.svgWrapper svg,
+.svgWrapper img,
+.svgWrapper image{
+	position:absolute;
+	left:0;
+	top:0;
+	display:block;
+	width:100%;
+	height:100%;
+}
+
+#headerLogo{
+	background:url(img/sprite.svg) 0 0 no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+#social .email{
+	background:url(img/sprite.svg) 0 -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+} 
+
+#social .facebook{
+	background:url(img/sprite.svg) -1.6rem -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+#social .weibo{
+	background:url(img/sprite.svg) -3.1rem -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+#social .huaban{
+	background:url(img/sprite.svg) -6.42531rem -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+#social .pinterest{
+	background:url(img/sprite.svg) -4.7rem -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+
+
+.typeface .download svg{
+	background:url(img/sprite.svg) -7rem -1.4rem no-repeat,none;
+	background-size:10.70855rem auto;
+
+}
+
+.typeface.logo .info .svgWrapper{
+	background:url(img/sprite.svg) 0 -3.21256rem no-repeat,none;
+	background-size:10.70855rem auto;
+}
+
+
+
+
+
+.no-svg.cssremunit #headerLogo{
+		background:url(img/sprite.png) 0 0 no-repeat;
+	background-size:10.70855rem auto;
+}
+
+.no-svg.cssremunit #social .email{
+		background:url(img/sprite.png) 0.2rem -1.4rem no-repeat;
+	background-size:10.70855rem auto;
+} 
+
+.no-svg.cssremunit #social .facebook{
+		background:url(img/sprite.png) -1.5rem -1.4rem no-repeat;
+	background-size:10.70855rem auto;
+}
+
+.no-svg.cssremunit #social .weibo{
+		background:url(img/sprite.png) -3rem -1.4rem no-repeat;
+	background-size:10.70855rem auto;
+}
+
+.no-svg.cssremunit #social .huaban{
+		background:url(img/sprite.png) -6.3rem -1.4rem no-repeat;
+	background-size:10.70855rem auto;
+}
+
+.no-svg.cssremunit #social .pinterest{
+		background:url(img/sprite.png) -4.6rem -1.4rem no-repeat;
+	background-size:10.70855rem auto;
+}
+
+
+.no-svg.cssremunit .typeface .download{
+		background:url(img/sprite.png) -9.5rem -2rem no-repeat;
+	background-size:14rem auto;
+
+}
+
+.no-svg.cssremunit .typeface.logo .info .svgWrapper{
+		background:url(img/sprite.png) 0 -3.7rem no-repeat;
+	background-size:10.70855rem auto;
+}
+
+
+
+
+
+
+
+.no-svg.no-cssremunit #headerLogo{
+	background:url(img/sprite.png) 0 0 no-repeat;
+}
+
+.no-svg.no-cssremunit #social .email{
+	background:url(img/sprite.png) 0 -30px no-repeat;
+} 
+
+.no-svg.no-cssremunit #social .facebook{
+	background:url(img/sprite.png) -30px -30px no-repeat;
+}
+
+.no-svg.no-cssremunit #social .weibo{
+	background:url(img/sprite.png) -60px -30px no-repeat;
+}
+
+.no-svg.no-cssremunit #social .huaban{
+	background:url(img/sprite.png) -120px -30px no-repeat;
+}
+
+.no-svg.no-cssremunit #social .pinterest{
+	background:url(img/sprite.png) -90px -30px no-repeat;
+}
+
+.no-svg.no-cssremunit .typeface .download svg,
+.no-svg.no-cssremunit .typeface .download{
+	background:url(img/sprite.png) -180px -30px no-repeat;
+
+}
+
+.no-svg.no-cssremunit .typeface.logo .info .svgWrapper{
+	background:url(img/sprite.png) 0 -60px no-repeat;
+}
+

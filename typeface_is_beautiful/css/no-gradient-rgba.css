@@ -1,0 +1,155 @@
+.no-csstransforms body.showMenu #menu{
+	left:auto;
+	right:0;
+}
+.no-cssgradients #background .layer1{
+  background:#BE0064;
+}
+ 
+.no-cssgradients #background .layer2{
+  background:#0064BE;
+}
+.no-cssgradients #background .layer3{
+  background:#00BE64;
+}
+
+.no-cssgradients #background .layer4{
+  background:#BE00BE;
+}
+.no-cssgradients #background .layer5{
+  background:#00BEBE;
+}
+
+
+.no-rgba #pageIndex{
+  color:#fff;
+}
+
+.no-rgba #menuTrigger span{
+  background:#fff;
+}
+/*menu*/
+.no-rgba #menu{
+  background:#000;
+}
+
+
+.no-rgba #warning{
+  border-bottom:solid 1px #fff;
+}
+
+
+.no-rgba #nav .item{
+  border-bottom:solid 1px #fff;
+}
+
+.no-rgba #nav .title{
+  color:#fff;
+}
+
+.no-rgba #nav .content{
+  color:#000;
+}
+
+
+.no-rgba #nav .item.show{
+  background:#fff;
+}
+
+.no-rgba #social li{
+  border:solid 2px #fff;
+}
+
+.no-rgba #menu .copyright{
+  color:#fff;
+}
+
+.no-rgba .typeface,
+.no-rgba .typeface a{
+  color:#fff;
+}
+
+.no-rgba .logo.typeface a.info{
+  color:#fff;
+}
+
+
+.no-rgba .typeface .download{
+  border:solid 2px #fff;
+}
+
+.no-rgba #info p{
+  background:#000;
+  color:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#menuTrigger{
+  -ms-filter: alpha(opacity=61.8);
+  filter: alpha(opacity=61.8);
+}
+#background .layer{
+  -ms-filter: alpha(opacity=0);
+  filter: alpha(opacity=0);
+}
+
+
+
+#background .layer.show{
+  -ms-filter: alpha(opacity=100);
+  filter: alpha(opacity=100);
+}
+#pageIndex{
+  -ms-filter: alpha(opacity=0);
+  filter: alpha(opacity=0);
+
+}
+
+
+
+.logo.typeface a.info,
+#info{
+  -ms-filter: alpha(opacity=0);
+  filter: alpha(opacity=0);
+
+}
+.logo.typeface.show a.info,
+.typeface.show .textWrapper,
+body.showFonts #pageIndex,
+#info.show{
+  -ms-filter: alpha(opacity=61.8);
+  filter: alpha(opacity=61.8);
+}
+
+
+#menu{
+  -ms-filter: alpha(opacity=80);
+  filter: alpha(opacity=80);  
+}
+
+
+
+
+
+
+
+
+
+
+
+

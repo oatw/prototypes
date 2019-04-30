@@ -1,0 +1,161 @@
+
+#nav li div {
+  transform: translateX(110%);
+}
+
+
+#nav li.selected div,
+#nav li.loaded div{
+  transform: translateX(0);
+
+}
+
+#nav ul li {
+  transform: translateX(100%);
+}
+
+
+#nav {
+  transform: translateY(30.5rem);
+}
+
+.showMenu #nav ul li {
+  transform: translateX(0);
+}
+
+
+.showMenu #main {
+  transform: translateY(30.5rem) translateZ(0);
+}
+
+
+
+#main .lyrcWrapper{
+  transform:scale(1.5);
+}
+
+
+
+body.showLrc #main .lyrcWrapper {
+  transform: scale(1);
+}
+
+
+#home li h1 {
+  transform: translateX(100%);
+}
+
+
+#home li i {
+  transform: translateX(-100%);
+}
+
+#home li.show h1 {
+  transform: translateX(0);
+}
+
+#home li.show i {
+  transform: translateX(0);
+}
+
+
+#playPannel {
+    transform:translateY(100%);
+}
+
+
+.showPannel #playPannel{
+  transform:translateY(0);
+}
+
+.no-cssmask #playPannel {
+  background:rgba(1, 25, 31, 1);
+
+}
+
+
+
+#playPannel .pannelInfo{
+  background: rgba(0, 161, 211, 1);
+  transform:translateX(-120%);
+}
+
+#playPannel .pannelInfo.show{
+  transform:translateY(0);
+}
+
+
+
+
+@keyframes waitingBuffer {
+  to{
+    transform: rotate(360deg);
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*home and about background media query*/
+@media screen and (min-width:500px), screen and (min-aspect-ratio:10001/10000) {
+  body {
+    background-color: rgba(1, 37, 43, 1);
+  }
+
+  body.hideBack.showStaticBack .contentWrapper {
+    background-color: rgba(1, 37, 43, 1);
+  }
+
+}
+
+
+
+
+@media screen and (min-width:600px) {
+
+
+
+.no-cssmask #playPannel {
+    background:rgba(1, 25,31, 1);
+}
+
+
+#playPannel {
+  transform:translateY(0);
+}
+
+
+
+  #playPannel ul li .volumeLine{
+    transform:translateY(100%);
+  }
+
+
+  #playPannel ul li:last-child:hover .volumeLine{
+    transform:translateY(0);
+  }
+
+
+}
+@media screen and (min-width:600px), screen and (min-aspect-ratio:10001/10000) {
+
+ #nav {
+    transform: none;
+  }
+
+  #nav ul li{
+    transform:none;
+  }
+
+}

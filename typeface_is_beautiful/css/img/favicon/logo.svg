@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="320px" viewBox="0 0 320 320" enable-background="new 0 0 320 320" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="6.021" y1="4.7075" x2="315.7773" y2="314.4638">
+	<stop  offset="0" style="stop-color:#BE0064"/>
+	<stop  offset="1" style="stop-color:#960014"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M321.798,300.933c0,10.072-8.233,18.238-18.389,18.238H18.389C8.233,319.171,0,311.005,0,300.933
+	V18.238C0,8.166,8.233,0,18.389,0h285.021c10.155,0,18.389,8.166,18.389,18.238V300.933z"/>
+<g>
+	<g>
+		<g>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				126.413,79.104 159.589,45.927 225.803,112.141 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				78.362,191.124 46.377,159.14 113.073,92.443 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				191.38,240.558 159.589,272.35 91.831,204.643 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				239.271,125.55 272.8,159.14 205.549,226.381 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				144.969,79.104 159.589,64.482 225.803,130.698 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				78.362,172.568 64.934,159.14 131.629,92.442 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				172.825,240.558 159.589,253.795 91.831,186.026 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				239.271,144.153 254.245,159.14 187.08,226.381 			"/>
+		</g>
+		<g>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				78.362,127.142 78.362,78.94 174.058,78.94 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				127.982,240.558 78.362,240.558 78.362,145.572 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				239.271,192.356 239.271,240.558 146.412,240.558 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				192.487,78.94 239.271,78.94 239.271,173.927 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				91.831,113.674 91.831,92.409 187.525,92.409 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				113.805,226.381 91.831,226.381 91.831,132.104 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				225.803,205.824 225.803,226.381 132.235,226.381 			"/>
+			<polyline vector-effect="non-scaling-stroke" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-miterlimit="10" points="
+				205.955,92.409 225.803,92.409 225.803,187.395 			"/>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M125.815,188.156h8.965v-55.246h-4.685c-1.078,0-2.289,0.095-3.634,0.283
+			c-1.347,0.189-2.706,0.714-4.079,1.574c-1.373,0.862-2.693,2.221-3.957,4.079c-1.267,1.857-2.356,4.43-3.271,7.713h-0.888v-14.781
+			h49.106v14.781h-0.889c-0.916-3.283-2.006-5.856-3.271-7.713c-1.266-1.858-2.584-3.217-3.958-4.079
+			c-1.373-0.86-2.733-1.385-4.079-1.574c-1.346-0.188-2.559-0.283-3.634-0.283h-4.685v55.246h8.965v1.131h-26.007V188.156
+			L125.815,188.156z"/>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M163.256,188.158h8.965v-55.246h-8.965v-1.131h46.199v13.973h-0.889c-0.7-2.1-1.454-3.944-2.261-5.533
+			c-0.808-1.588-1.777-2.934-2.909-4.039c-1.13-1.103-2.477-1.924-4.038-2.463c-1.562-0.537-3.445-0.808-5.653-0.808h-13.407v26.169
+			h5.25c1.777,0,3.283-0.162,4.522-0.485c1.238-0.323,2.302-0.929,3.19-1.817s1.642-2.1,2.261-3.634
+			c0.619-1.535,1.226-3.514,1.818-5.937h0.888v25.119h-0.888c-0.378-1.561-0.769-3.069-1.171-4.523
+			c-0.404-1.454-0.97-2.746-1.697-3.877s-1.696-2.032-2.908-2.706c-1.211-0.672-2.787-1.009-4.724-1.009h-6.543v27.947h8.965v1.13
+			h-26.006V188.158L163.256,188.158z"/>
+	</g>
+</g>
+</svg>
